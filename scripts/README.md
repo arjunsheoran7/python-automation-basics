@@ -5,9 +5,11 @@ A Python script that automatically organizes files in a folder into subfolders b
 **Concepts used:**
 - File system navigation
 - Loops and conditionals
-- Python standard library (`os`, `shutil`)
+- Python standard library (os, shutil)
 
-### Bulk File Renamer
+---
+
+## Bulk File Renamer
 
 A Python script that renames all files in a folder using a consistent naming pattern.
 
