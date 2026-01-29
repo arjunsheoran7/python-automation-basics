@@ -28,3 +28,14 @@ A Python script that generates a random password using letters, numbers, and sym
 - Randomization
 - String manipulation
 - Python standard library
+
+---
+
+## CSV Data Cleaner
+
+A Python script that removes empty rows from a CSV file and saves a cleaned version.
+
+**Concepts used:**
+- Reading and writing CSV files
+- Lists and conditionals
+- Data cleaning basics
