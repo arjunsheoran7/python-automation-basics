@@ -17,3 +17,14 @@ A Python script that renames all files in a folder using a consistent naming pat
 - Looping through files
 - String formatting
 - File renaming with Python
+
+---
+
+## Password Generator
+
+A Python script that generates a random password using letters, numbers, and symbols.
+
+**Concepts used:**
+- Randomization
+- String manipulation
+- Python standard library
