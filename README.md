@@ -12,3 +12,8 @@ This project is a learning-focused repository created to understand the fundamen
 ## Current status
 
 This project is currently in progress and is being built as part of a structured learning process. The scripts in this repository are intentionally simple and focus on clarity and understanding rather than advanced patterns or optimisations.
+
+## Repository Structure
+
+- `scripts/` — Standalone Python automation projects
+- `practice/` — Practice scripts used while learning Python fundamentals
